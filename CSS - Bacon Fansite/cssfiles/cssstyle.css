@@ -1,0 +1,22 @@
+h1 {
+    color :brown;
+    font-size: 100px;
+}
+body {
+    background-color: aquamarine;
+}
+
+img {
+    background-color: blueviolet;
+}
+img:hover {
+    background-color:black;
+}
+
+.chicken {
+    background-color: azure;
+}
+
+#heading {
+    color: blue;
+}
